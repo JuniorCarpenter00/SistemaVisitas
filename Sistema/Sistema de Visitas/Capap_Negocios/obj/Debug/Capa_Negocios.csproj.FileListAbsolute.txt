@@ -1,0 +1,22 @@
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capap_Negocios\bin\Debug\Capap_Negocios.dll
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capap_Negocios\bin\Debug\Capap_Negocios.pdb
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capap_Negocios\bin\Debug\Capa_Datos.dll
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capap_Negocios\bin\Debug\Capa_Entidades.dll
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capap_Negocios\bin\Debug\Capa_Datos.pdb
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capap_Negocios\bin\Debug\Capa_Entidades.pdb
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capap_Negocios\obj\Debug\Capa_Negocios.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capap_Negocios\obj\Debug\Capa_Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capap_Negocios\obj\Debug\Capa_Negocios.csproj.CopyComplete
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capap_Negocios\obj\Debug\Capap_Negocios.dll
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capap_Negocios\obj\Debug\Capap_Negocios.pdb
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capap_Negocios\bin\Debug\Capap_Negocios.dll
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capap_Negocios\bin\Debug\Capap_Negocios.pdb
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capap_Negocios\bin\Debug\Capa_Datos.dll
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capap_Negocios\bin\Debug\Capa_Entidades.dll
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capap_Negocios\bin\Debug\Capa_Datos.pdb
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capap_Negocios\bin\Debug\Capa_Entidades.pdb
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capap_Negocios\obj\Debug\Capa_Negocios.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capap_Negocios\obj\Debug\Capa_Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capap_Negocios\obj\Debug\Capa_Negocios.csproj.CopyComplete
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capap_Negocios\obj\Debug\Capap_Negocios.dll
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capap_Negocios\obj\Debug\Capap_Negocios.pdb

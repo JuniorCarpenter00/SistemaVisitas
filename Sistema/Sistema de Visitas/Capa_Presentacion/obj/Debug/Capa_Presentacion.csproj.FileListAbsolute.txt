@@ -1,0 +1,44 @@
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\obj\Debug\Capa_Presentacion.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\obj\Debug\Capa_Presentacion.FormPrincipal.resources
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmUsuarios.resources
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmVisitantes.resources
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CopyComplete
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\bin\Debug\Capap_Negocios.dll
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\bin\Debug\Capa_Entidades.dll
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\bin\Debug\Capap_Negocios.pdb
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\bin\Debug\Capa_Entidades.pdb
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmLogin.resources
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmBusqueda.resources
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\bin\Debug\Capap_Negocios.dll
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\bin\Debug\Capa_Entidades.dll
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\bin\Debug\Capap_Negocios.pdb
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\bin\Debug\Capa_Entidades.pdb
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\obj\Debug\Capa_Presentacion.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmBusqueda.resources
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmLogin.resources
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\obj\Debug\Capa_Presentacion.FormPrincipal.resources
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmUsuarios.resources
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmVisitantes.resources
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CopyComplete
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb

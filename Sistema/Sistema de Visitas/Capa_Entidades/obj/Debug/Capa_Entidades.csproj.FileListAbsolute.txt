@@ -1,0 +1,12 @@
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Entidades\obj\Debug\Capa_Entidades.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\Daniel Lopez\source\repos\Visitas_Itla\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Entidades\obj\Debug\Capa_Entidades.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\Daniel Lopez\source\repos\Sistema de Visitas\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
